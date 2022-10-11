@@ -8,7 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class PhotosListComponent implements OnInit {
 
   constructor() { }
-
+  
+  photoData=[]
   ngOnInit(): void {
   }
 
